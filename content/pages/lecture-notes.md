@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: a71c9bb2-72b8-ab08-0056-4102588b2607
 ---
@@ -58,7 +61,7 @@ Functional Groups: Fragmentation \[MS\] ([PDF]({{< baseurl >}}/resources/04_lec
 L5
 {{< tdclose >}}
 {{< tdopen >}}
-Functional Groups \[13C NMR\] ([PDF]({{< baseurl >}}/resources/05_lec_5_2006))
+Functional Groups \[{{< sup "13" >}}C NMR\] ([PDF]({{< baseurl >}}/resources/05_lec_5_2006))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +70,7 @@ Functional Groups \[13C NMR\] ([PDF]({{< baseurl >}}/resources/05_lec_5_2006))
 L6
 {{< tdclose >}}
 {{< tdopen >}}
-Connectivity \[1H NMR\] ([PDF]({{< baseurl >}}/resources/06_lec_6_7_2006))
+Connectivity \[{{< sup "1" >}}H NMR\] ([PDF]({{< baseurl >}}/resources/06_lec_6_7_2006))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +79,7 @@ Connectivity \[1H NMR\] ([PDF]({{< baseurl >}}/resources/06_lec_6_7_2006))
 L7
 {{< tdclose >}}
 {{< tdopen >}}
-Connectivity (cont.) \[1 H NMR\] ([PDF]({{< baseurl >}}/resources/07_lec_7_2006))
+Connectivity (cont.) \[{{< sup "1" >}} H NMR\] ([PDF]({{< baseurl >}}/resources/07_lec_7_2006))
 {{< tdclose >}}
 
 {{< trclose >}}

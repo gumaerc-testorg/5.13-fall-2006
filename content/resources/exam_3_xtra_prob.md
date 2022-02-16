@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Extra problems for Exam #3.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-13-organic-chemistry-ii-fall-2006/0eecb42a9e90a7b3cb257da830a1a716_exam_3_xtra_prob.pdf
+file: /media/courses/5-13-organic-chemistry-ii-fall-2006/0eecb42a9e90a7b3cb257da830a1a716_exam_3_xtra_prob.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: exam_3_xtra_prob.pdf
 uid: 0eecb42a-9e90-a7b3-cb25-7da830a1a716
