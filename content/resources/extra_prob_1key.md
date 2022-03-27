@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2ff33fe6-1a26-b758-16e2-f9b003a5e1f3
 resourcetype: Document
 title: extra_prob_1key.pdf
 uid: ef4bb8ba-f736-4072-bfd0-6127bf33d1e3

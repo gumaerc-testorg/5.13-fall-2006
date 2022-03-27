@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2ff33fe6-1a26-b758-16e2-f9b003a5e1f3
 resourcetype: Document
 title: drillset3key.pdf
 uid: c2d724a2-e4c6-9d9f-007f-6574b1ecdcdc

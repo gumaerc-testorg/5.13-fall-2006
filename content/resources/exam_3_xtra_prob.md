@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 6eb9569f-2f6e-1dd1-57dc-231dc3a15338
 resourcetype: Document
 title: exam_3_xtra_prob.pdf
 uid: 0eecb42a-9e90-a7b3-cb25-7da830a1a716

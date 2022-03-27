@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a71c9bb2-72b8-ab08-0056-4102588b2607
 resourcetype: Document
 title: pka_values.pdf
 uid: 5609f710-6f69-ce07-ea63-0f2b8f570b8a

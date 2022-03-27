@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 6eb9569f-2f6e-1dd1-57dc-231dc3a15338
 resourcetype: Document
 title: pract_xam_2_key.pdf
 uid: a7c5cf6f-0c02-f245-2b42-9d989f47f9e1
