@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/5-13-organic-chemistry-ii-fall-2006/b103aae16559da2902ac5b7695b3c3ab_pract_exam_1_key.pdf
+file: /courses/5-13-organic-chemistry-ii-fall-2006/b103aae16559da2902ac5b7695b3c3ab_pract_exam_1_key.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: pract_exam_1_key.pdf
