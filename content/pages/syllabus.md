@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: d6cc2517-a834-2efe-eeda-98810c6479ca
 ---
@@ -43,7 +45,7 @@ Clayden, J., et al. _Organic Chemistry._ Oxford, England: Oxford University Pres
 Molecular Models
 ----------------
 
-Several units in 5.13 will emphasize stereochemical aspects of organic reactions and molecules. To help you visualize stereochemical concepts, we recommend that you purchase the WH Freeman HSG Molecular Structure Model SetTM . Note that you will be permitted to bring model sets to the hour exams and the final.
+Several units in 5.13 will emphasize stereochemical aspects of organic reactions and molecules. To help you visualize stereochemical concepts, we recommend that you purchase the WH Freeman HSG Molecular Structure Model Set{{< sup "TM" >}} . Note that you will be permitted to bring model sets to the hour exams and the final.
 
 Problem Sets
 ------------
