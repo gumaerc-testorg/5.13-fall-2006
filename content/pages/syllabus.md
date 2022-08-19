@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course overview, and information about
+  required texts, additional texts, molecular models, problem sets, exams, grading,
+  and academic integrity.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -52,7 +55,7 @@ Problem Sets
 
 Eight problem sets will be required throughout the semester and are worth 10% of your final grade. These problem sets should be handed in to your recitation instructor at the beginning of lecture on the dates announced (or earlier). No late work will be accepted.
 
-Written solutions are given for each problem set in the [assignments]({{< baseurl >}}/pages/assignments) section. In addition, "drill problems" will be assigned approximately every week in conjunction with the weekly reading assignments.
+Written solutions are given for each problem set in the {{% resource_link 2ff33fe6-1a26-b758-16e2-f9b003a5e1f3 "assignments" %}} section. In addition, "drill problems" will be assigned approximately every week in conjunction with the weekly reading assignments.
 
 Exams
 -----
