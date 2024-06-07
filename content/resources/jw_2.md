@@ -3,6 +3,7 @@ content_type: resource
 description: Reaction overview document on Reactions to Know, developed by teaching
   assistant Jeewoo Lim.
 file: /courses/5-13-organic-chemistry-ii-fall-2006/9147546ca3f676492ea24b6c0d8bf3ab_jw_2.pdf
+file_size: 80706
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

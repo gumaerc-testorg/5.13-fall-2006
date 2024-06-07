@@ -2,6 +2,7 @@
 content_type: resource
 description: Exam solutions.
 file: /courses/5-13-organic-chemistry-ii-fall-2006/81af2ce63cbdc1581d1a2d5eec404773_exam_2_solutions.pdf
+file_size: 155357
 file_type: application/pdf
 learning_resource_types:
 - Exams

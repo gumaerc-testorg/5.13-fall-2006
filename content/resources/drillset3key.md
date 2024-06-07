@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to a supplemental Problem Set.
 file: /courses/5-13-organic-chemistry-ii-fall-2006/c2d724a2e4c69d9f007f6574b1ecdcdc_drillset3key.pdf
+file_size: 26342
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Solutions to extra problems for Exam #4.'
 file: /courses/5-13-organic-chemistry-ii-fall-2006/02ec0fa2fb284a3de048a85c311f4587_exam_4_more_key.pdf
+file_size: 299125
 file_type: application/pdf
 learning_resource_types:
 - Exams

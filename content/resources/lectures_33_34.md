@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on Radicals.
 file: /courses/5-13-organic-chemistry-ii-fall-2006/9237405b62ba1f6dd502f577f9904a96_lectures_33_34.pdf
+file_size: 82752
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

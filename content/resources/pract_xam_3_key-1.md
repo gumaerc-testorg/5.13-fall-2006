@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to practice exam.
 file: /courses/5-13-organic-chemistry-ii-fall-2006/eb944f99f7372d6947c3c2525cfcbc61_pract_xam_3_key.pdf
+file_size: 292317
 file_type: application/pdf
 learning_resource_types:
 - Exams

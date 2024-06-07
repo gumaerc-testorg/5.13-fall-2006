@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/5-13-organic-chemistry-ii-fall-2006/4ee4e47a8b0d280af08f220f6a3adc30_practice_exam_2.pdf
+file_size: 302193
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
