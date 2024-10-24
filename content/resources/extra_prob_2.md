@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This course contains set of problems.
-file: /courses/5-13-organic-chemistry-ii-fall-2006/ef478660f15d2674c94eef6833daf0db_extra_prob_2.pdf
+file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2006/ef478660f15d2674c94eef6833daf0db_extra_prob_2.pdf
 file_size: 531535
 file_type: application/pdf
 learning_resource_types:

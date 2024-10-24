@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Assignment and Study Guide for Unit II: The Chemistry of Ethers, Epoxides,
   and Sulfides.'
-file: /courses/5-13-organic-chemistry-ii-fall-2006/5508da345d011d468d4511fa35ef25ca_unit_2_study.pdf
+file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2006/5508da345d011d468d4511fa35ef25ca_unit_2_study.pdf
 file_size: 79423
 file_type: application/pdf
 learning_resource_types:
