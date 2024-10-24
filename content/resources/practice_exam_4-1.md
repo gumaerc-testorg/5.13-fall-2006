@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Practice exam.
-file: /courses/5-13-organic-chemistry-ii-fall-2006/5a20ce207402af97ad4396c809970434_practice_exam_4.pdf
+file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2006/5a20ce207402af97ad4396c809970434_practice_exam_4.pdf
 file_size: 205373
 file_type: application/pdf
 learning_resource_types:

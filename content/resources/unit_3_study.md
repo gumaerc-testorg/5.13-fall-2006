@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Assignment and Study Guide for Unit III: Molecular Orbital Theory, Pericyclic
   Reactions, and the Woodward-Hoffmann Rules.'
-file: /courses/5-13-organic-chemistry-ii-fall-2006/3a9215184e2d2a8c87106f46054d90e0_unit_3_study.pdf
+file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2006/3a9215184e2d2a8c87106f46054d90e0_unit_3_study.pdf
 file_size: 136514
 file_type: application/pdf
 learning_resource_types:
