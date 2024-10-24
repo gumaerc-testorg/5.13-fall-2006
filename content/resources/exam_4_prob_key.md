@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/5-13-organic-chemistry-ii-fall-2006/0659b821d5224c5293623b51fd21f08d_exam_4_prob_key.pdf
+file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2006/0659b821d5224c5293623b51fd21f08d_exam_4_prob_key.pdf
 file_size: 635341
 file_type: application/pdf
 learning_resource_types: []

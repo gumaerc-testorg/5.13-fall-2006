@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /courses/5-13-organic-chemistry-ii-fall-2006/7614f1cd06e6a9eb866c73efb1e484f5_pset2.pdf
+file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2006/7614f1cd06e6a9eb866c73efb1e484f5_pset2.pdf
 file_size: 266624
 file_type: application/pdf
 learning_resource_types:

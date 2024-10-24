@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Practice Final Exam.
-file: /courses/5-13-organic-chemistry-ii-fall-2006/b953e749e4e170e65adfbca313520262_practice_final.pdf
+file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2006/b953e749e4e170e65adfbca313520262_practice_final.pdf
 file_size: 411617
 file_type: application/pdf
 learning_resource_types:

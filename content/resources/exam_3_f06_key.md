@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Exam solutions.
-file: /courses/5-13-organic-chemistry-ii-fall-2006/eb269b8a567223a8eaeafcbe5703d7fd_exam_3_f06_key.pdf
+file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2006/eb269b8a567223a8eaeafcbe5703d7fd_exam_3_f06_key.pdf
 file_size: 204092
 file_type: application/pdf
 learning_resource_types:
