@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on topics michael reaction, mechanism,
   thermodynamics and robinson annulation.
-file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2006/bdf3db38ed4a15799a156029627aad39_l22_5_13_notes.pdf
+file: /courses/5-13-organic-chemistry-ii-fall-2006/bdf3db38ed4a15799a156029627aad39_l22_5_13_notes.pdf
 file_size: 899683
 file_type: application/pdf
 learning_resource_types:

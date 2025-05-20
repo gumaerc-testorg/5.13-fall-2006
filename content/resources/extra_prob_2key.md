@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions.
-file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2006/4880080516520fb739ef8d6a42c93e39_extra_prob_2key.pdf
+file: /courses/5-13-organic-chemistry-ii-fall-2006/4880080516520fb739ef8d6a42c93e39_extra_prob_2key.pdf
 file_size: 31541
 file_type: application/pdf
 learning_resource_types:

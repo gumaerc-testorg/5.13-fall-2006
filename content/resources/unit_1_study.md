@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Assignment and Study Guide for Unit I: Methods for the Elucidation of
   the Structure of Organic Compounds.'
-file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2006/7dcfed0daa52c06cef4f572e9105f948_unit_1_study.pdf
+file: /courses/5-13-organic-chemistry-ii-fall-2006/7dcfed0daa52c06cef4f572e9105f948_unit_1_study.pdf
 file_size: 69446
 file_type: application/pdf
 learning_resource_types:
