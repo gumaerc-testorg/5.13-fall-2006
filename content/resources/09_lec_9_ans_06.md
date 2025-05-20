@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Answers to problems from Lecture #9.'
-file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2006/c5b8953bc91928cd2e71c688e28a3547_09_lec_9_ans_06.pdf
+file: /courses/5-13-organic-chemistry-ii-fall-2006/c5b8953bc91928cd2e71c688e28a3547_09_lec_9_ans_06.pdf
 file_size: 116732
 file_type: application/pdf
 learning_resource_types:

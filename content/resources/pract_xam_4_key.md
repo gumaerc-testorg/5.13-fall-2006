@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2006/138d558729d4060d3b2831eed61f6ec3_pract_xam_4_key.pdf
+file: /courses/5-13-organic-chemistry-ii-fall-2006/138d558729d4060d3b2831eed61f6ec3_pract_xam_4_key.pdf
 file_size: 453823
 file_type: application/pdf
 learning_resource_types: []
