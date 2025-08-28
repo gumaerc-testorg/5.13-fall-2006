@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplemental Problem Set on Drill Problems.
-file: /courses/5-13-organic-chemistry-ii-fall-2006/f743c4709302131a4f80052b1b4d0cc2_drill_set_3.pdf
+file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2006/f743c4709302131a4f80052b1b4d0cc2_drill_set_3.pdf
 file_size: 163481
 file_type: application/pdf
 learning_resource_types:
