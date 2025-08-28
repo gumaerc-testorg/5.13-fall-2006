@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Extra problems for Exam #4.'
-file: /courses/5-13-organic-chemistry-ii-fall-2006/bdce1a5e9275d91a58ac510b9fae411a_exam_4_more_prob.pdf
+file: /ol-ocw-studio-app/courses/5-13-organic-chemistry-ii-fall-2006/bdce1a5e9275d91a58ac510b9fae411a_exam_4_more_prob.pdf
 file_size: 99378
 file_type: application/pdf
 learning_resource_types:
